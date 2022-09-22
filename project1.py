@@ -40,7 +40,7 @@ def main():
             break
         else:
             print("Please enter one of the following:\n\tSpring, Summer, Fall, Winter")
-            return
+            break
 
 
 if __name__ == "__main__":
